@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)](https://KGaurav-8102.io)
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="Coding" width="100%" height="300px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e478fz57o5tzuqkuhm5e1yf0hp2w6jnp5ba4vljptmr&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgaurav-8102&label=Profile%40views&color=0e75b6&style=flat" alt="kgaurav-8102" /> </p>
 
