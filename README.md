@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgaurav-8102&label=Profile%40views&color=0e75b6&style=flat" alt="kgaurav-8102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgaurav-8102" alt="kgaurav-8102" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KGaurav-8102" alt="KGaurav-8102" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravk98653251" target="blank"><img src="https://img.shields.io/twitter/follow/gauravk98653251?logo=twitter&style=for-the-badge" alt="gauravk98653251" /></a> </p>
 <img align="right" alt="Eat Sleep" src="https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e47xd27rbhfndxpawxt6jcv9equgkc9w4sgh63nitwb&rid=giphy.gif&ct=g" />
